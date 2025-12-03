@@ -1,7 +1,7 @@
 
  德州扑克游戏源代码，德州扑克游戏,德州私人局，德朋友局源代码，刚刚停服，日盈利70万usdt以上，产品稳定，玩法丰富，支持五种语言（简体，繁体，英文，韩文，马来西亚文）等多种语言；
  可以散客玩家打牌，也可以创建俱乐部，游戏中有大联盟。有八个德州玩法，以及运营后台，代理后台，替换一下支付通道，可以直接马上上线运营的；
-
+德州撲克源碼，德州俱樂部源碼，德州遊戲源碼，包含俱樂部+聯盟+朋友局（私人局）+經典德州+AOF+（6+短牌）+SNG+MTT+德州牛仔+奧馬哈+大菠蘿等玩法；
  注意：此产品不是网上那种外包团队的德州游戏产品，是真正市场上运营并且盈利比较高的德州产品，直接和德扑圈等竞争的精品。
  对代码或者项目有意向者联系:飞机tg:@xuzongbin001  或邮箱：masterai918@gmail.com;聊天软件Mchat:xuzongbin001
 
@@ -12,6 +12,7 @@ Individual players can play cards, or create clubs, and there is a major league 
 Note: This product is not the kind of Texas game product outsourced by the online team, it is a real Texas product operating in the market and with relatively high profits, and it is a boutique that directly competes with Texas Hold'em Circle.
 If you are interested in the code or project, please contact: tg:@xuzongbin001 or email: masterai918@gmail.com
 
+![微信图片_20241029191811 - 副本](https://github.com/user-attachments/assets/a2a7d001-c315-4e49-841d-f19b847dab9c)
 
  
  ![微信图片_20250515120021](https://github.com/user-attachments/assets/fad9e0fd-6eb9-441d-8391-d8ed795b9a25)
@@ -31,5 +32,6 @@ If you are interested in the code or project, please contact: tg:@xuzongbin001 o
 ![微信图片_20250515115834](https://github.com/user-attachments/assets/03115f7a-5254-456a-a29e-8b7cc56103a5)
 ![微信图片_20250515114608](https://github.com/user-attachments/assets/de0e1470-3ad2-4c6f-a00d-d87e6ba7d3f8)
 ![微信图片_20250515114530](https://github.com/user-attachments/assets/58b0634b-b259-4c02-8fae-e429d22dd2b0)
+
 
 
