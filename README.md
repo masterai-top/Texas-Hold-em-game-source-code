@@ -5,7 +5,7 @@
 德州撲克源碼，德州俱樂部源碼，德州遊戲源碼，包含俱樂部+聯盟+朋友局（私人局）+經典德州+AOF+（6+短牌）+SNG+MTT+德州牛仔+奧馬哈+大菠蘿等玩法；
  注意：此产品不是网上那种外包团队的德州游戏产品，是真正市场上运营并且盈利比较高的德州产品，直接和德扑圈等竞争的精品。
  
- 对代码或者项目有意向者联系:飞机tg:@xuzongbin001  或邮箱：masterai918@gmail.com;聊天软件Mchat:xuzongbin001
+ 对代码或者项目有意向者联系:飞机tg:@xuzongbin001  或邮箱：masterai918@gmail.com;
 
 
  Texas Hold'em game source code, Texas Hold'em game, Texas private bureau, Texas friend bureau source code, just stopped service, daily turnover of more than 600,000 USDT, stable product, rich gameplay, support five languages ​​(Simplified, Traditional, English, Korean, Malaysian) and other languages;
@@ -34,6 +34,7 @@ If you are interested in the code or project, please contact: tg:@xuzongbin001 o
 ![微信图片_20250515115834](https://github.com/user-attachments/assets/03115f7a-5254-456a-a29e-8b7cc56103a5)
 ![微信图片_20250515114608](https://github.com/user-attachments/assets/de0e1470-3ad2-4c6f-a00d-d87e6ba7d3f8)
 ![微信图片_20250515114530](https://github.com/user-attachments/assets/58b0634b-b259-4c02-8fae-e429d22dd2b0)
+
 
 
 
